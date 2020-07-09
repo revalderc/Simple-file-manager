@@ -1,0 +1,26 @@
+.upload-form-wrapper {
+    border: 1px dashed #dee2e6;
+    padding: 20px;
+    overflow: hidden;
+}
+
+#preview-wrapper {
+    position: relative;
+}
+
+#video-controls {
+    display: none;
+    position: absolute;
+    bottom: 8px;
+    left: 5px;
+}
+
+#video-controls span {
+    cursor: pointer;
+    background-color: #1b1e21;
+    color: #ffffff;
+}
+
+.badge {
+    font-weight: normal;
+}
